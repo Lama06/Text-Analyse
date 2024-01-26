@@ -1,0 +1,8 @@
+Ein Test ist ein methodischer Versuch, mit dem festgestellt werden soll, ob Eigenschaften oder Leistung einer Sache, einer Person oder einer Hypothese den Erwartungen entsprechen.
+Der Test unterscheidet sich vom Experiment dadurch, dass es beim Test eine Erwartung gibt, die belegt oder widerlegt werden soll, während das Ergebnis beim Experiment offen ist oder nur vermutet werden kann.
+Mit Testung wird das Testen, das Getestet-Werden bezeichnet, die Untersuchung eines Gegenstandes oder Sachverhaltes, zum Beispiel auf Richtigkeit oder Funktionsfähigkeit.
+Verschiedene bereiche der Technik und Wirtschaft verwenden abweichende Definitionen.
+so steht Test teilweise alls Synonym für die Qualitäts- oder Endprüfung, Erprobung oder Messung.
+Die Standardisierungsorganisationen ISO und IEC definieren den Test im Sinne einer Ermittlung.
+Die DIN 1319 verwendet hingegen die Bezeichnung Prüfen, bei dem festgestellt wird, wie weit ein Prüfobjekt die Forderungen erfüllt.
+Ein Teil des Tests bzw. der Überprüfung kann auch ein Probebetrieb sein.
